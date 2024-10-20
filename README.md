@@ -8,4 +8,3 @@ Run `app.py` to start the project.
 
 The Model was deployed using Flask.
 
-The code is a notebook file that contains markdowns on every cell explaining its functionality.
