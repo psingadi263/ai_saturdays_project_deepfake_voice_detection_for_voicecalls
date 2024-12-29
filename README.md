@@ -1,4 +1,4 @@
-# real_time_deep_fake_voice_detection_for_voice_calls
+# Deep Learning-Based Detection of Voice Deepfakes for Fraud Prevention
 
 # The project is part of AI_Saturdays Kigali program completion.
 
